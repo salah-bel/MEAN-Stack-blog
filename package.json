@@ -1,0 +1,22 @@
+{
+  "name": "blog-mean-dasilva",
+  "version": "1.0.0",
+  "description": "Blog build with MEAN stack named Dasilva don't know why !!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salah-bel/MEAN-Stack-blog.git"
+  },
+  "keywords": [
+    "mean-stack"
+  ],
+  "author": "Salah Bel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salah-bel/MEAN-Stack-blog/issues"
+  },
+  "homepage": "https://github.com/salah-bel/MEAN-Stack-blog#readme"
+}
